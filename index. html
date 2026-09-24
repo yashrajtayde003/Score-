@@ -1059,4 +1059,5 @@ window.scoreV5={initSupabase,profileLocal,localAttempts,localBookmarks,awardXP,u
 })();
 </script>
 
-</body></html>
+</body>
+</html>
